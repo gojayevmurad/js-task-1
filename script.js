@@ -1,5 +1,4 @@
 // Input ile daxil olunan ədədin sade bolenlerini cixartsin
-// 🌹
 
 // let num = +prompt("Number:");
 // for (let i = 2; i <= num; i++) {
@@ -24,7 +23,6 @@
 // }
 
 // Input ile daxil olunan ədədin rəqəmlərindən ən böyüyünü tapın.
-// 🌹
 
 // let num = prompt("Enter number"),
 //   biggerNum = -1;
@@ -38,7 +36,6 @@
 // console.log(biggerNum);
 
 // Input ile daxil olunan ədədin rəqəmlərindən tam ədədləri göstərin.
-// 🌹
 
 // const num = prompt("enter number:").slice("");
 
@@ -47,7 +44,6 @@
 // }
 
 // Input ile daxil olunan ədədin rəqəmlərindən cüt ədədi göstərin.
-// 🌹
 
 // let num = prompt("Enter number:");
 // for (let i = 0; i < num.length; i++) {
@@ -57,7 +53,6 @@
 // }
 
 // Input ile daxil olunan ədədin rəqəmlərindən sadə ədədləri göstəri
-// 🌹
 
 // let num = prompt("Enter number:");
 
@@ -76,7 +71,6 @@
 // Input ile daxil olunan ədədin rəqəmlərindən mükəmməl ədəd olub olmadığını tapın.
 
 // Input ile daxil olunan ədədin reqmelerin sayi ve string ile tərsini tapın.
-// 🌹
 
 // let num = prompt("Enter number"),
 //   reserve = "";
@@ -87,14 +81,12 @@
 // console.log(reserve);
 
 // Input ile daxil olunan 1 ci ədədi daxil olunan 2 ci ədədin qüvvətinə yüksəldin.
-// 🌹
 
 // let firstNum = +prompt("Enter first number:"),
 //   secondNum = +prompt("Enter second number:");
 // console.log(secondNum ** firstNum);
 
 // Input ile daxil olunan ədədin rəqəmlərinin kvadratları cəmini tapın.
-// 🌹
 
 // let num = prompt("Enter number:"),
 //   total = 0;
@@ -104,7 +96,6 @@
 // console.log(total);
 
 // Input ile daxil olunan ədədin 3 ededi string ile yan-yana yigilsin. Misal ucun: 3, 45, 10
-// 🌹
 
 // let total = "";
 // for (let i = 0; i < 3; i++) {
@@ -114,7 +105,6 @@
 // console.log(total);
 
 // Isifadeciden alinan n sayda ededden necesinin tam eded oldugunu tapin
-// 🌹
 
 // let numbers = prompt('Enter numbers: ","').split(","),
 //   counter = 0;
@@ -125,7 +115,6 @@
 // }
 // console.log(counter);
 // sifadeciden alinan n sayda ededden necesinin sade eded oldugunu tapin
-// 🌹
 
 // let numbers = prompt('Enter numbers: "," ').split(",");
 
@@ -142,7 +131,6 @@
 // }
 
 // Istifadeciden alinan n sayda ededden necesinin murekkeb eded oldugunu tapin
-// 🌹
 
 // let numbers = prompt('Enter numbers: "," ').split(",");
 
@@ -159,7 +147,6 @@
 // }
 
 // Input ile daxil olunan ededden sonraki ilk sade ededi tapin
-// 🌹
 
 // let num = +prompt("Enter number:"),
 //   simpleNum = num;
@@ -179,13 +166,11 @@
 // }
 
 // Istifadecinin daxil etdiyi ededin kok altini tap
-// 🌹
 
 // let num = +prompt('Enter number:')
 // console.log(num**.5)
 
 // Istifadeci 0 daxil edenedek edelerin cemini tapin
-// 🌹
 
 // let total = 0;
 // while (true) {
@@ -202,7 +187,6 @@
 // *** Vurma cedveli (string methodu ile)
 
 // Input ile daxil olunan 3 ededden ortancili tapan funksiya yazin.
-// 🌹
 
 // let numbers = prompt('Enter numbers : "," ').split(",");
 
@@ -225,7 +209,6 @@
 // console.log(findNum(numbers));
 
 // Array icerisinde en kicik ededi tapin ( home work )
-// 🌹
 
 // let numbers = prompt('Enter numbers : ","').split(",");
 
@@ -244,7 +227,6 @@
 // console.log(findLeast(numbers));
 
 // Array icersisinde sonu 9 olan nece elemet var
-// 🌹
 
 // let arr = prompt('Enter number:').split(','),
 //   filteredArr = [];
@@ -263,7 +245,6 @@
 // console.log(filteredArr);
 
 // Array icerisinde nece cut element var
-// 🌹
 // let arr = [1,2,3,4,5,6,7,8,9,0];
 
 // for(let i = 0; i<arr.length; i++){
@@ -276,7 +257,6 @@
 // }
 
 // Array icerisinde nece tek element var
-// 🌹
 // let arr = [1,2,3,4,5,6,7,8,9,0];
 
 // for(let i = 0; i<arr.length; i++){
@@ -289,7 +269,6 @@
 // }
 
 // Array icerisindeki tam ededlerin cemini tapin (while ile). ( home work )
-// 🌹
 // let arr = prompt('Enter numbers: ","').split(',')
 // i = 0,
 // total =0;
